@@ -1,5 +1,3 @@
-# atividade-es
-
 # Projeto: Sistema de Gerenciamento de Tarefas
 ## Descrição do Sistema
 
@@ -33,7 +31,8 @@ desejam melhorar sua organização.
 
 ## Tecnologias Utilizadas
 
-| Linguagem de programação: JavaScript | JavaScript  |
 |--------------------------------------|-------------|
+| Linguagem de programação: JavaScript | JavaScript  |
 | Banco de dados: PostgreSQL           | PostgreSQL  |
 | Interface: HTML e CSS                |  HTML e CSS |
+|--------------------------------------|-------------|
