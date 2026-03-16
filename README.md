@@ -10,20 +10,30 @@ desejam melhorar sua organização.
 ## Principais Funcionalidades
 
 • Criar novas tarefas
+
 • Editar tarefas existentes
+
 • Marcar tarefas como concluídas
+
 • Visualizar lista de tarefas
+
 • Definir prioridade das tarefas
+
 
 ## Equipe do Projeto
 
 • João Silva
+
 • Maria Oliveira
+
 • Carlos Souza
+
 • Ana Pereira
+
 
 ## Tecnologias Utilizadas
 
 | Linguagem de programação: JavaScript | JavaScript  |
+|--------------------------------------|-------------|
 | Banco de dados: PostgreSQL           | PostgreSQL  |
 | Interface: HTML e CSS                |  HTML e CSS |
